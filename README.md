@@ -16,8 +16,8 @@
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Rampa de garaje 3D](https://github.com/Eprieto85/rampa-garaje-3d) · [demo](https://eprieto85.github.io/rampa-garaje-3d/) | Simulador 3D interactivo para diseñar la rampa de un garaje: dos diseños, conducción del carro sobre el perfil, cálculo de despeje y flexómetro virtual. | Three.js, JavaScript, HTML, CSS |
-| [freeCodeCamp projects](https://github.com/Eprieto85/freecodecamp-projects) | Proyectos de las certificaciones de freeCodeCamp. | HTML, CSS, JavaScript |
-| [Rick and Morty](https://github.com/Eprieto85/rick_and_morty) | App que consume la API de Rick and Morty. | React |
+| [freeCodeCamp projects](https://github.com/Eprieto85/freecodecamp-projects) | Proyectos de la certificación Responsive Web Design: HTML semántico, CSS y selector de idioma ES/EN/FR. | HTML, CSS |
+| [Rick and Morty](https://github.com/Eprieto85/rick_and_morty) | App que consume la API de Rick and Morty, con autenticación, búsqueda, filtros y favoritos. | React, JavaScript |
 | [openBootCamp](https://github.com/Eprieto85/openBootCamp) | Ejercicios del bootcamp de OpenBootcamp. | Java |
 
 <h3 align="left">Connect with me:</h3>
