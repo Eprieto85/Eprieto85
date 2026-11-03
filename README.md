@@ -11,6 +11,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eprietog/](https://www.linkedin.com/in/eprietog/)
 
+<h3 align="left">🚀 Mis desarrollos</h3>
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Rampa de garaje 3D](https://github.com/Eprieto85/rampa-garaje-3d) · [demo](https://eprieto85.github.io/rampa-garaje-3d/) | Simulador 3D interactivo para diseñar la rampa de un garaje: dos diseños, conducción del carro sobre el perfil, cálculo de despeje y flexómetro virtual. | Three.js, JavaScript, HTML, CSS |
+| [freeCodeCamp projects](https://github.com/Eprieto85/freecodecamp-projects) | Proyectos de las certificaciones de freeCodeCamp. | HTML, CSS, JavaScript |
+| [Rick and Morty](https://github.com/Eprieto85/rick_and_morty) | App que consume la API de Rick and Morty. | React |
+| [openBootCamp](https://github.com/Eprieto85/openBootCamp) | Ejercicios del bootcamp de OpenBootcamp. | Java |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eprietog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eprietog" height="30" width="40" /></a>
