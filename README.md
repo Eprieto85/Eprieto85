@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm Edisson Prieto</h1>
-<h3 align="center">A passionate Full-Stack developer from Colombia</h3>
+<h3 align="center">Full-Stack Developer from Colombia · HTML · CSS · JavaScript · React</h3>
 
-- 🔭 I’m currently working on **personal project**
-
-- 👯 I’m looking to collaborate on **soy Henry bootcamp**
-
-- 💬 Ask me about **Html 5, React, CSS**
-
+- 🔭 I'm currently working on **freeCodeCamp JavaScript certification**
+- 💬 Ask me about **HTML5, CSS3, React, JavaScript**
 - 📫 How to reach me **edissonprietog@gmail.com**
+- 📄 Know about my experiences [linkedin.com/in/eprietog](https://www.linkedin.com/in/eprietog/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eprietog/](https://www.linkedin.com/in/eprietog/)
+---
 
-<h3 align="left">🚀 Mis desarrollos</h3>
+<h3 align="left">🏆 Certifications</h3>
 
-| Proyecto | Descripción | Tecnologías |
+| Certificate | Issuer | Date | Link |
+|---|---|---|---|
+| ✅ Responsive Web Design | freeCodeCamp | Nov 2026 | [View](https://freecodecamp.org/certification/eprieto/responsive-web-design-v9) |
+| 🟡 JavaScript Algorithms & Data Structures | freeCodeCamp | In progress | — |
+
+---
+
+<h3 align="left">🚀 Projects</h3>
+
+| Project | Description | Tech |
 |---|---|---|
-| [Rampa de garaje 3D](https://github.com/Eprieto85/rampa-garaje-3d) · [demo](https://eprieto85.github.io/rampa-garaje-3d/) | Simulador 3D interactivo para diseñar la rampa de un garaje: dos diseños, conducción del carro sobre el perfil, cálculo de despeje y flexómetro virtual. | Three.js, JavaScript, HTML, CSS |
-| [freeCodeCamp projects](https://github.com/Eprieto85/freecodecamp-projects) | Proyectos de la certificación Responsive Web Design: HTML semántico, CSS y selector de idioma ES/EN/FR. | HTML, CSS |
-| [Rick and Morty](https://github.com/Eprieto85/rick_and_morty) | App que consume la API de Rick and Morty, con autenticación, búsqueda, filtros y favoritos. | React, JavaScript |
-| [openBootCamp](https://github.com/Eprieto85/openBootCamp) | Ejercicios del bootcamp de OpenBootcamp. | Java |
+| [freeCodeCamp projects](https://github.com/Eprieto85/freecodecamp-projects) · [live](https://eprieto85.github.io/freecodecamp-projects/) | 16 RWD projects (certified) + JavaScript labs. Custom design, EN/ES/FR switcher. | HTML, CSS, JS |
+| [Rampa de garaje 3D](https://github.com/Eprieto85/rampa-garaje-3d) · [demo](https://eprieto85.github.io/rampa-garaje-3d/) | 3D interactive simulator for garage ramp design with car animation and clearance calculator. | Three.js, JS, HTML, CSS |
+| [Rick and Morty](https://github.com/Eprieto85/rick_and_morty) | App consuming the Rick and Morty API with auth, search, filters and favorites. | React, JS |
+| [openBootCamp](https://github.com/Eprieto85/openBootCamp) | OpenBootcamp exercises. | Java |
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
